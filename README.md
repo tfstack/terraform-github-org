@@ -8,8 +8,8 @@ export GITHUB_TOKEN=ghp_xxx
 
 ### Required permission
 
-[] repo
-[] admin:org:write:org
+- [] repo
+- [] admin:org:write:org
 
 ## Requirements
 
